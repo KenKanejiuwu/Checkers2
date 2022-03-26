@@ -1,0 +1,11 @@
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.SuggestedBindingRedirects.cache
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
